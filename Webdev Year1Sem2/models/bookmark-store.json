@@ -1,0 +1,20 @@
+{
+  "bookmarkCollection": [
+    {
+      "title": "Homer's Bookmarks",
+      "id": "df1cfe3e-2e54-4045-8534-91ca6eab546e",
+      "site": []
+    },
+    {
+      "title": "Homer's favorite sites",
+      "id": "7b1f20e8-1098-483a-a0dc-3c98e38a1482",
+      "site": [
+        {
+          "id": "" ,
+          "title": "" ,
+          "link": "" 
+        }
+      ]
+    }
+  ]
+}
